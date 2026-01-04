@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mini Inbox/_TODO.md",
+                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_TODO"
+              "title": "_CONTEXT"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mini Inbox/_TODO.md",
+                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _TODO"
+              "title": "Backlinks for _CONTEXT"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mini Inbox/_TODO.md",
+                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _TODO"
+              "title": "Outgoing links from _CONTEXT"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mini Inbox/_TODO.md",
+                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _TODO"
+              "title": "Outline of _CONTEXT"
             }
           },
           {
@@ -196,7 +196,14 @@
   },
   "active": "e20fccbb2274fcd5",
   "lastOpenFiles": [
+    "Projects/perso/travaux/_TODO.md",
+    "Projects/pro/pm-assistant/_CONTEXT.md",
+    "Projects/pro/pm-assistant",
     "Mini Inbox/Nouvelle Note.md",
+    "Projects/perso/travaux",
+    "Projects/perso",
+    "Projects/pro",
+    "Projects",
     "Mini Inbox/_TODO.md",
     "Mini Inbox/Sans titre.md",
     "_scripts",
