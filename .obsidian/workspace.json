@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_TODO.md",
+                "file": "Mini Inbox/_TODO.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_TODO.md",
+                "file": "Mini Inbox/_TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_TODO.md",
+                "file": "Mini Inbox/_TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_TODO.md",
+                "file": "Mini Inbox/_TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e20fccbb2274fcd5",
+  "active": "aac9a19647f39c64",
   "lastOpenFiles": [
+    "_TODO.md",
     "scripts/sync_planning.py",
     "scripts",
     "Mini Inbox/_TODO.md",
-    "_TODO.md",
     "GEMINI.md",
     "logbook/20260102-logbook.md",
     "logbook/20260101-logbook.md",
@@ -219,7 +219,6 @@
     "Projects/pro",
     "Projects",
     "Mini Inbox/Sans titre.md",
-    "_scripts",
-    "Mini Inbox"
+    "_scripts"
   ]
 }
