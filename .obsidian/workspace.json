@@ -196,6 +196,8 @@
   },
   "active": "e20fccbb2274fcd5",
   "lastOpenFiles": [
+    "scripts/sync_planning.py",
+    "scripts",
     "Mini Inbox/_TODO.md",
     "_TODO.md",
     "GEMINI.md",
@@ -218,7 +220,6 @@
     "Projects",
     "Mini Inbox/Sans titre.md",
     "_scripts",
-    "Mini Inbox",
-    "Inbox"
+    "Mini Inbox"
   ]
 }

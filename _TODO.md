@@ -11,7 +11,11 @@
 - [ ] [Perso] Enduire les murs du 1er étage
 
 ### 2026-01-07
+- [ ] [Perso] Poncer les murs
+- [ ] [Perso] Passer l'éponge sur les murs
+- [ ] [Perso] Passer la deuxième couche d'enduie
 ### 2026-01-08
+TBD
 ### Today (Done) (2026-01-03)
 - [X] [Binarii] Cadrer le projet MiniNote (Objectifs, MVP, Stack)
 - [x] [Binarii IaC] Reinstall Quieter : Boot PXE et installation Zero Touch

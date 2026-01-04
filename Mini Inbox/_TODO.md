@@ -1,4 +1,5 @@
 # _TODO
+## Planning
 ### Today (2026-01-05)
 - [ ] [Perso] Protéger le sol du Garde manger
 - [ ] [Perso] Faire les deux saignées
