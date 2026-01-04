@@ -11,10 +11,14 @@
             "id": "e20fccbb2274fcd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mini Inbox/_TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_TODO"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mini Inbox/_TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for _TODO"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mini Inbox/_TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from _TODO"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mini Inbox/_TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _TODO"
             }
           },
           {
@@ -187,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac9a19647f39c64",
+  "active": "e20fccbb2274fcd5",
   "lastOpenFiles": [
+    "Mini Inbox/Nouvelle Note.md",
+    "Mini Inbox/_TODO.md",
+    "Mini Inbox/Sans titre.md",
     "_scripts",
     "Mini Inbox",
     "Inbox"
