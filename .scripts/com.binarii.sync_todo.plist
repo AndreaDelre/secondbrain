@@ -12,13 +12,25 @@
         <string>/Users/andreadelre/Work/secondbrain/.scripts/sync_planning.py</string>
     </array>
 
-    <key>WatchPaths</key>
+    <!--<key>WatchPaths</key>
     <array>
         <string>/Users/andreadelre/Work/secondbrain/_TODO.md</string>
         <string>/Users/andreadelre/Work/secondbrain/MiniInbox/_TODO.md</string>
     </array>
 
     <key>ThrottleInterval</key>
-    <integer>1</integer>
+    <integer>30</integer>-->
+
+    <key>StartInterval</key>
+    <integer>60</integer>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/binarii_sync.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/binarii_sync.err</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/andreadelre/Work/secondbrain/</string>
 </dict>
 </plist>

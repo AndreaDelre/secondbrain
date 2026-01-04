@@ -1,10 +1,13 @@
 ## Planning
 ### Today (2026-01-05)
-- [x] [Perso] Protéger le sol du Garde manger
+- [ ] [Perso] Protéger le sol du Garde manger
 - [ ] [Perso] Faire les deux saignées
 - [ ] [Perso] Poser les boitiers de prises
 - [ ] [Perso] Tirer les cables des prises
 - [ ] [Perso] Reboucher les saignées
+- [ ] [Perso] Faire la vaisselle
+- [ ] [Perso] Préparer le diner
+- [ ] [Perso] Lancer la lessive de draps
 ### 2026-01-06
 - [ ] [Perso] Enduire les murs du garde manger
 - [ ] [Perso] Protéger le sol du premier étage
@@ -13,7 +16,6 @@
 - [ ] [Perso] Poncer les murs
 - [ ] [Perso] Passer l'éponge sur les murs
 - [ ] [Perso] Passer la deuxième couche d'enduit
-
 ## Projects
 ### [Decathlon] Agent Reporting Steering Committee
 **Objective :** Automatiser la génération de slides de Steering Committee à partir de données Jira et Databricks via un agent IA.

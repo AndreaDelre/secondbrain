@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0df2a81975336a92",
+        "id": "86be28ee2ef8ab5d",
         "type": "tabs",
         "children": [
           {
-            "id": "e20fccbb2274fcd5",
+            "id": "fc7b149048c49ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,13 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e20fccbb2274fcd5",
+  "active": "fc7b149048c49ca7",
   "lastOpenFiles": [
-    "Mini Inbox/_TODO.md",
     "MiniInbox/_TODO.md",
+    "_TODO.md",
+    "Mini Inbox/_TODO.md",
     "MiniInbox/Nouvelle Note.md",
     "MiniInbox",
-    "_TODO.md",
     "scripts/sync_planning.py",
     "scripts",
     "GEMINI.md",
