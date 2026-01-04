@@ -6,7 +6,7 @@ import sys
 
 # --- CONFIGURATION ---
 FILE_MAIN = "./_TODO.md"
-FILE_MINI = "./Mini Inbox/_TODO.md"
+FILE_MINI = "./MiniInbox/_TODO.md"
 
 # Couleurs pour le terminal
 class Colors:
