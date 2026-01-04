@@ -1,10 +1,22 @@
-## Today (In Progress) (2026-01-03)
+## Planning
+### Today (2026-01-05)
+- [ ] [Perso] Protéger le sol du Garde manger
+- [ ] [Perso] Faire les deux saignées
+- [ ] [Perso] Poser les boitiers de prises
+- [ ] [Perso] Tirer les cables des prises
+- [ ] [Perso] Reboucher les saignées
+### 2026-01-06
+- [ ] [Perso] Enduire les murs du garde manger
+- [ ] [Perso] Protéger le sol du premier étage
+- [ ] [Perso] Enduire les murs du 1er étage
+
+### 2026-01-07
+### 2026-01-08
+### Today (Done) (2026-01-03)
 - [X] [Binarii] Cadrer le projet MiniNote (Objectifs, MVP, Stack)
 - [x] [Binarii IaC] Reinstall Quieter : Boot PXE et installation Zero Touch
-- [ ] [Perso] Travaux/Bricolage : Définir objectif du week-end
-
+- [x] [Perso] Travaux/Bricolage : Définir objectif du week-end
 ## Projects
-
 ### [Decathlon] Agent Reporting Steering Committee
 **Objective :** Automatiser la génération de slides de Steering Committee à partir de données Jira et Databricks via un agent IA.
 **Success Criteria :** Obtention d'un deck de slides de qualité attendue sur simple demande à l'agent.

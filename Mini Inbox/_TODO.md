@@ -1,11 +1,7 @@
 # _TODO
-
-Test de rajouter des choses, redit, ajout pour voir
-
-de l'autre côté
-
-histoire de voir comment ça se passe mais bon 
-
-J'écris depuis obsidian, ça à l'air de marcher donc c'est cool
-
-Et maintenant j'ecris depuis MiniDiary
+### Today (2026-01-05)
+- [ ] [Perso] Protéger le sol du Garde manger
+- [ ] [Perso] Faire les deux saignées
+- [ ] [Perso] Poser les boitiers de prises
+- [ ] [Perso] Tirer les cables des prises
+- [ ] [Perso] Reboucher les saignées
