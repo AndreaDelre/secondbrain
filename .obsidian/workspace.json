@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
+                "file": "_TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_CONTEXT"
+              "title": "_TODO"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
+                "file": "_TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _CONTEXT"
+              "title": "Backlinks for _TODO"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
+                "file": "_TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _CONTEXT"
+              "title": "Outgoing links from _TODO"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/pro/pm-assistant/_CONTEXT.md",
+                "file": "_TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _CONTEXT"
+              "title": "Outline of _TODO"
             }
           },
           {
@@ -196,8 +196,19 @@
   },
   "active": "e20fccbb2274fcd5",
   "lastOpenFiles": [
-    "Projects/perso/travaux/_TODO.md",
+    "GEMINI.md",
+    "_TODO.md",
+    "logbook/20260102-logbook.md",
+    "logbook/20260101-logbook.md",
+    "logbook/20251231-logbook.md",
+    "logbook",
+    "improvements/20260102-improvement.md",
+    "improvements/20260101-improvement.md",
+    "improvements/20251231-improvement.md",
+    "improvements",
+    "Projects/pro/pm-assistant/_TODO.md",
     "Projects/pro/pm-assistant/_CONTEXT.md",
+    "Projects/perso/travaux/_TODO.md",
     "Projects/pro/pm-assistant",
     "Mini Inbox/Nouvelle Note.md",
     "Projects/perso/travaux",
