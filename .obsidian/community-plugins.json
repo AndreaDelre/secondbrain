@@ -2,5 +2,6 @@
   "obsidian-git",
   "editing-toolbar",
   "terminal",
-  "buttons"
+  "buttons",
+  "obsidian-shellcommands"
 ]

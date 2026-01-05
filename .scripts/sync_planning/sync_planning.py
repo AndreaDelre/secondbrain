@@ -71,18 +71,51 @@ def parse_structure(block_content):
         
     return structure
 
+def get_normalization_key(header):
+    """
+    Extrait la date (YYYY-MM-DD) pour servir de clé de comparaison.
+    Si pas de date, retourne le header nettoyé.
+    Permet d'associer 'Today (In Progress) (2026-01-05)' avec 'Today (2026-01-05)'.
+    """
+    match = re.search(r"(\d{4}-\d{2}-\d{2})", header)
+    if match:
+        return match.group(1)
+    return header.strip()
+
 def merge_data(struct_a, struct_b):
     merged_sections = []
-    dict_b = {title: tasks for title, tasks in struct_b}
-    processed_titles_b = set()
+    
+    # Création d'un dictionnaire pour B indexé par la clé normalisée (Date)
+    # Si doublons de dates dans B (ne devrait pas arriver), on regroupe les tâches
+    dict_b_norm = {}
+    
+    # On garde aussi une map pour retrouver le titre original de B si besoin (pour les sections uniques à B)
+    # Mais ici on itère sur la liste originale pour l'ordre final
+    
+    for title, tasks in struct_b:
+        key = get_normalization_key(title)
+        if key not in dict_b_norm:
+            dict_b_norm[key] = []
+        dict_b_norm[key].extend(tasks)
+
+    processed_keys_b = set()
 
     for title_a, tasks_a in struct_a:
-        tasks_b = dict_b.get(title_a, [])
-        processed_titles_b.add(title_a)
+        key_a = get_normalization_key(title_a)
+        
+        # On cherche si cette clé existe dans B
+        tasks_b = dict_b_norm.get(key_a, [])
+        
+        if key_a in dict_b_norm:
+            processed_keys_b.add(key_a)
+        
+        # On fusionne. On garde le titre de A (Main) comme source de vérité (ex: In Progress)
         merged_sections.append((title_a, merge_tasks(tasks_a, tasks_b)))
     
+    # On ajoute les sections de B qui n'ont pas été trouvées dans A
     for title_b, tasks_b in struct_b:
-        if title_b not in processed_titles_b:
+        key_b = get_normalization_key(title_b)
+        if key_b not in processed_keys_b:
             merged_sections.append((title_b, tasks_b))
             
     return merged_sections

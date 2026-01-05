@@ -1,10 +1,10 @@
 ```button
-name Synch To Do
-type Command
-action ls -l
+name Synchroniser Planning
+type command
+action Shell Commands: Execute: synch-todo
+color blue
 ```
 ## Planning
-
 ### Today (In Progress) (2026-01-05)
 - [ ] Grosse Tâche : [Pro] - [Alfred] Définir le workflow de travail (Brain Dump, Structurer, Prioriser, Planifier)
 - [ ] [Perso] Protéger le sol du Garde manger
@@ -15,6 +15,7 @@ action ls -l
 - [ ] [Perso] Faire la vaisselle
 - [ ] [Perso] Préparer le diner
 - [ ] [Perso] Lancer la lessive de draps
+- [ ] [Perso] Préparer les factures pour remboursement
 ### 2026-01-06
 - [ ] [Perso] Enduire les murs du garde manger
 - [ ] [Perso] Protéger le sol du premier étage
@@ -23,7 +24,6 @@ action ls -l
 - [ ] [Perso] Poncer les murs
 - [ ] [Perso] Passer l'éponge sur les murs
 - [ ] [Perso] Passer la deuxième couche d'enduit
-
 ## Projects
 ### [Decathlon] Agent Reporting Steering Committee
 **Objective :** Automatiser la génération de slides de Steering Committee à partir de données Jira et Databricks via un agent IA.
