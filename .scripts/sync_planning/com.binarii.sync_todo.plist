@@ -9,7 +9,7 @@
     <array>
         <string>/usr/bin/python3</string>
         
-        <string>/Users/andreadelre/Work/secondbrain/.scripts/sync_planning.py</string>
+        <string>/Users/andreadelre/Work/secondbrain/.scripts/sync_planning/sync_planning.py</string>
     </array>
 
     <!--<key>WatchPaths</key>

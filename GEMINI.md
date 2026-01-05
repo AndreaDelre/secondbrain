@@ -73,7 +73,28 @@ Le fichier _TODO.md doit toujours refléter l'état actuel des tâches et projet
 ```markdown
 # TODO List
 
-## Today (Defined/In Progress)
+## Planning
+### Today (Defined/In Progress) (YYYYMMDD)
+- [ ] Grosse Tâche : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Moyenne Tâche 1 :[Projet] - [Titre] (Deadline, Priorité)
+- [ ] Moyenne Tâche 2 :[Projet] - [Titre] (Deadline, Priorité)
+- [ ] Moyenne Tâche 3 :[Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 1 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 2 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 3 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 4 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 5 : [Projet] - [Titre] (Deadline, Priorité)
+### {{YYYYMMDD +1}}
+- [ ] Grosse Tâche : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Moyenne Tâche 1 :[Projet] - [Titre] (Deadline, Priorité)
+- [ ] Moyenne Tâche 2 :[Projet] - [Titre] (Deadline, Priorité)
+- [ ] Moyenne Tâche 3 :[Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 1 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 2 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 3 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 4 : [Projet] - [Titre] (Deadline, Priorité)
+- [ ] Petite Tâche 5 : [Projet] - [Titre] (Deadline, Priorité)
+### {{YYYYMMDD +2}}
 - [ ] Grosse Tâche : [Projet] - [Titre] (Deadline, Priorité)
 - [ ] Moyenne Tâche 1 :[Projet] - [Titre] (Deadline, Priorité)
 - [ ] Moyenne Tâche 2 :[Projet] - [Titre] (Deadline, Priorité)
@@ -96,6 +117,8 @@ Le fichier _TODO.md doit toujours refléter l'état actuel des tâches et projet
 - [ ] Task 3 : [Description] (Deadline, Priority)
 ```
 
+Les jours suivant la section ### Today ne sont pas obligatoires, c'est à l'utilisateur de décider.
+**IMPORTANT** Les tâches dans planning doivent toujours appartenir à un projet listé en dessous, si ça n'est pas le cas, échange avec l'utilisateur pour faire en sorte que ça le soit.
 ### Revue et synthèse quotidienne
 
 #### Revue du matin
@@ -107,9 +130,9 @@ Le fichier _TODO.md doit toujours refléter l'état actuel des tâches et projet
 
 #### Revue du soir
 *À activer en fin de journée ou quand l'utilisateur signale la fin du travail.*
-* Coche les tâches faites, à la fois dans la section Today mais aussi dans chaque projet.
+* Regarde les cases cochées, coche les tâches faites, à la fois dans la section Today mais aussi dans chaque projet.
 * Changer le titre de la section "Today (In Progress)" en "Done [Date]".
-* Ajouter une nouvelle section "Today (Defined)" pour le lendemain.
+* Ajouter une nouvelle section "Today (Defined)" pour le lendemain ou passe la section du jour suivant (### {{YYYYMMDD +1}}) en "Today (Defined)"
 * Déplace les tâches non terminées vers la section "Today (Defined)" du lendemain.
 * Définir avec l'utilisateur les priorités du lendemain en utilisant la méthode 1-3-5 pour de nouvelle tâche si besoin.
-* Ajouter une note de synthèse récapitulative des accomplissements de la journée et des échanges qu'il y a pu avoir dans le dossier logbook, avec pour titre YYYYMMMDD-logbook.md.
+* Archiver la liste Done à la suite du fichier _ARCHIVES/_TODO-ARCHIVES en remplaçant today par la date de la journée faite.
