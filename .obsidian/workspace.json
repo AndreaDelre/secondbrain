@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,11 +214,11 @@
   },
   "active": "7f13e71b3d2a0e94",
   "lastOpenFiles": [
-    "projects/pro/_committee/_README.md",
-    "projects/pro/_committee/Exploration.md",
-    "projects/pro/_committee",
     "GEMINI.md",
     "_TODO.md",
+    "projects/pro/_committee/Exploration.md",
+    "projects/pro/_committee/_README.md",
+    "projects/pro/_committee",
     "MiniInbox/_TODO.md",
     "_ARCHIVES/_TODO-ARCHIVES.md",
     "_ARCHIVES",
