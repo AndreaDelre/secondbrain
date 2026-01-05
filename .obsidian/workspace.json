@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +197,10 @@
   },
   "active": "fc7b149048c49ca7",
   "lastOpenFiles": [
+    "_TODO.md",
     "GEMINI.md",
     "_ARCHIVES/_TODO-ARCHIVES.md",
     "_ARCHIVES",
-    "_TODO.md",
     "MiniInbox/_TODO.md",
     "Mini Inbox/_TODO.md",
     "MiniInbox/Nouvelle Note.md",
@@ -215,14 +215,14 @@
     "improvements/20260101-improvement.md",
     "improvements/20251231-improvement.md",
     "improvements",
-    "Projects/pro/pm-assistant/_TODO.md",
-    "Projects/pro/pm-assistant/_CONTEXT.md",
-    "Projects/perso/travaux/_TODO.md",
-    "Projects/pro/pm-assistant",
+    "projects/pro/pm-assistant/_TODO.md",
+    "projects/pro/pm-assistant/_CONTEXT.md",
+    "projects/perso/travaux/_TODO.md",
+    "projects/pro/pm-assistant",
     "Mini Inbox/Nouvelle Note.md",
-    "Projects/perso/travaux",
-    "Projects/perso",
-    "Projects/pro",
+    "projects/perso/travaux",
+    "projects/perso",
+    "projects/pro",
     "Mini Inbox/Sans titre.md"
   ]
 }

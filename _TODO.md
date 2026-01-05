@@ -1,4 +1,16 @@
+```button
+name Synch To Do
+type Command
+action ls -l
+```
 ## Planning
+
+### Today (Done) (2026-01-03)
+- [X] [Binarii] Cadrer le projet MiniNote (Objectifs, MVP, Stack)
+- [x] [Binarii IaC] Reinstall Quieter : Boot PXE et installation Zero Touch
+- [x] [Perso] Travaux/Bricolage : Définir objectif du week-end
+- [x] [Binarii] Réinstallation du pve-llm
+- [x] [Perso] Build de miniDiary
 ### Today (2026-01-05)
 - [ ] [Perso] Protéger le sol du Garde manger
 - [ ] [Perso] Faire les deux saignées
@@ -16,6 +28,7 @@
 - [ ] [Perso] Poncer les murs
 - [ ] [Perso] Passer l'éponge sur les murs
 - [ ] [Perso] Passer la deuxième couche d'enduit
+
 ## Projects
 ### [Decathlon] Agent Reporting Steering Committee
 **Objective :** Automatiser la génération de slides de Steering Committee à partir de données Jira et Databricks via un agent IA.
@@ -65,14 +78,12 @@
 - [ ] Configurer l'authentification Google Tasks API (OAuth2)
 - [ ] Développer le script de synchronisation (Watcher Markdown -> API Tasks)
 - [ ] Implémenter la synchronisation inverse (Polling/Webhook Tasks -> Markdown)
-- [ ] Créer l'extension Raycast (ou Menu Bar App) pour la saisie rapide
-- [ ] Tester le workflow complet entre Obsidian, Alfred et Mobile
 
 ### [Binarii] Organisation
 **Objective :** Gérer les tâches transverses et organisationnelles de Binarii.
 **Success Criteria :** Coordination fluide des réunions et des échéances trimestrielles.
 - [X] Réunion du vendredi - 20260102
-- [ ] Réunion du vendredi - 20260109
+- [ ] Envoyer l'invitation de la réunion du vendredi - 20260109
 - [ ] Réunion du vendredi - 20260116
 - [ ] Réunion mi-janvier pour définition du quarter
 
@@ -86,24 +97,12 @@
 **Objective :** Rénovation complète de la maison (Se référer au fichier TRAVAUX.md pour le détail par pièce).
 **Success Criteria :** Travaux terminés selon les standards de qualité définis pour chaque pièce.
 - [X] Définir les grandes phases de rénovation et prioriser les pièces.
-- Le reste des tâches se trouves dans TRAVAUX.md
+- Le reste des tâches se trouves dans projects/perso/travaux/_TODO.md
 
 ### [Perso] Intendance Maison
 **Objective :** Gestion fluide et organisée des tâches quotidiennes et de la logistique du foyer.
 **Success Criteria :** Maison entretenue, logistique maîtrisée sans surcharge mentale.
-- [x] Faire les courses
-- [x] Passer l'aspirateur 1er étage
-- [x] Préparer lessives affaires quotidiennes
-- [x] Faire lessive quotidienne 1
-- [x] Faire lessive quotidienne 2
-- [x] Faire lessive quotidienne 3
-- [ ] Passer l'aspirateur RDC
-- [X] Lessive de blanc
-- [X] Lessive tapis
-- [X] Lessive couleurs
-- [ ] Passer la serpillère
-- [X] Arroser les plantes
-- [X] Faire le lit du deuxième étage
+- [ ] Arroser les plantes
 
 ### [Perso] Administratif
 **Objective :** Maintenir à jour et organiser les documents administratifs personnels et familiaux.
