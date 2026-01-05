@@ -9,7 +9,7 @@
 - [ ] [Perso] Reboucher les saignées
 - [ ] [Perso] Faire la vaisselle
 - [ ] [Perso] Préparer le diner
-- [ ] [Perso] Lancer la lessive de draps
+- [x] [Perso] Lancer la lessive de draps
 - [ ] [Perso] Préparer les factures pour remboursement
 ### 2026-01-06
 - [ ] [Perso] Enduire les murs du garde manger
