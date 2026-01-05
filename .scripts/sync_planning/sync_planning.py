@@ -104,8 +104,7 @@ def merge_tasks(tasks_a, tasks_b):
     for t in all_tasks_source:
         if t['text'] not in processed_texts:
             is_checked = task_map[t['text']]
-            mark = "x" if is_checked else " "
-            merged.append(f"- [{mark}] {t['text']}")
+            merged.append({'text': t['text'], 'checked': is_checked})
             processed_texts.add(t['text'])
             
     return merged
@@ -114,7 +113,9 @@ def rebuild_block(merged_structure):
     output = ["## Planning"]
     for title, tasks in merged_structure:
         output.append(title)
-        output.extend(tasks)
+        for t in tasks:
+            mark = "x" if t['checked'] else " "
+            output.append(f"- [{mark}] {t['text']}")
     return "\n".join(output) + "\n"
 
 def show_diff(filename, old_content, new_content):

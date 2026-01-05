@@ -5,13 +5,8 @@ action ls -l
 ```
 ## Planning
 
-### Today (Done) (2026-01-03)
-- [X] [Binarii] Cadrer le projet MiniNote (Objectifs, MVP, Stack)
-- [x] [Binarii IaC] Reinstall Quieter : Boot PXE et installation Zero Touch
-- [x] [Perso] Travaux/Bricolage : Définir objectif du week-end
-- [x] [Binarii] Réinstallation du pve-llm
-- [x] [Perso] Build de miniDiary
-### Today (2026-01-05)
+### Today (In Progress) (2026-01-05)
+- [ ] Grosse Tâche : [Pro] - [Alfred] Définir le workflow de travail (Brain Dump, Structurer, Prioriser, Planifier)
 - [ ] [Perso] Protéger le sol du Garde manger
 - [ ] [Perso] Faire les deux saignées
 - [ ] [Perso] Poser les boitiers de prises
@@ -66,6 +61,7 @@ action ls -l
 ### [Binarii] Gemini Assistant (Local)
 **Objective :** Développer une squad d'agents (Alfred, Strategist, Analyst) pour augmenter la productivité (Voir GEMINI_ASSISTANT.md).
 **Success Criteria :** Slides automatisés, Cadrage assisté, Gestion tâches fluide.
+- [ ] [Alfred] Définir le workflow de travail (Brain Dump, Structurer, Prioriser, Planifier)
 - [ ] [Alfred] Ajouter la fonctionnalité de modification de brouillons au MCP Gmail
 - [ ] [Strategist] Tester l'agent PM sur un sujet de cadrage réel (Crash Test)
 - [ ] [Analyst] Cartographier les données nécessaires (Champs Jira, Tables Databricks) pour les slides

@@ -15,14 +15,14 @@
   "preferredRenderer": "webgl",
   "profiles": {
     "7e0a39a0-9290-4250-bfa0-608ec8434b35": {
-      "args": [
-        "\"$PWD\""
-      ],
-      "executable": "/Applications/iTerm.app/Contents/MacOS/iTerm2",
+      "args": [],
+      "executable": "/bin/zsh",
       "name": "Classic",
       "platforms": {
-        "darwin": true
+        "darwin": true,
+        "linux": true
       },
+      "pythonExecutable": "python3",
       "restoreHistory": false,
       "rightClickAction": "copyPaste",
       "successExitCodes": [
@@ -33,7 +33,8 @@
       "terminalOptions": {
         "documentOverride": null
       },
-      "type": "external"
+      "type": "integrated",
+      "useWin32Conhost": true
     }
   }
 }
