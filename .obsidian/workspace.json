@@ -25,38 +25,14 @@
             "id": "7f13e71b3d2a0e94",
             "type": "leaf",
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "/Users/andreadelre/Work/secondbrain",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/zsh",
-                    "name": "Classic",
-                    "platforms": {
-                      "darwin": true,
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
+                "file": "projects/pro/_committee/Exploration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "terminal",
-              "title": "Terminal: Gemini - secondbrain"
+              "icon": "lucide-file",
+              "title": "Exploration"
             }
           }
         ],
@@ -133,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/pro/_committee/Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Exploration"
             }
           },
           {
@@ -151,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/pro/_committee/Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Exploration"
             }
           },
           {
@@ -193,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "projects/pro/_committee/Exploration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Exploration"
             }
           },
           {
@@ -232,8 +211,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "aac9a19647f39c64",
+  "active": "7f13e71b3d2a0e94",
   "lastOpenFiles": [
+    "projects/pro/_committee/_README.md",
+    "projects/pro/_committee/Exploration.md",
+    "projects/pro/_committee",
     "GEMINI.md",
     "_TODO.md",
     "MiniInbox/_TODO.md",
@@ -259,7 +241,6 @@
     "Mini Inbox/Nouvelle Note.md",
     "projects/perso/travaux",
     "projects/perso",
-    "projects/pro",
     "Mini Inbox/Sans titre.md"
   ]
 }

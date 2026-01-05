@@ -1,0 +1,1 @@
+Extraire jira pour avoir les points par tickets

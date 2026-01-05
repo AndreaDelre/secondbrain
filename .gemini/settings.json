@@ -15,25 +15,25 @@
     }
   },
   "mcpServers": {
-    /*"confluence-mcp": {
-      "command": "/home/assistant/mcp/servers/confluence-mcp/venv/bin/python",
+    "confluence-mcp": {
+      "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/confluence-mcp/.venv/bin/python",
       "args": [
-        "/home/assistant/mcp/servers/confluence-mcp/server.py"
+        "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/confluence-mcp/server.py"
       ]
     },
     "databricks-mcp": {
-      "command": "/home/assistant/mcp/servers/databricks-mcp/venv/bin/python",
+      "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/databricks-mcp/.venv/bin/python",
       "args": [
-        "/home/assistant/mcp/servers/databricks-mcp/server.py"
+        "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/databricks-mcp/server.py"
       ]
     },
     "jira-mcp": {
-      "command": "/home/assistant/mcp/servers/jira-mcp/venv/bin/python",
+      "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/jira-mcp/.venv/bin/python",
       "args": [
-        "/home/assistant/mcp/servers/jira-mcp/server.py"
+        "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/jira-mcp/server.py"
       ]
     },
-    "gmail-mcp": {
+    /*"gmail-mcp": {
       "command": "/home/assistant/mcp/servers/gmail-mcp/venv/bin/python",
       "args": [
         "/home/assistant/mcp/servers/gmail-mcp/server.py"
