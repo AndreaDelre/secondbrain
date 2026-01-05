@@ -1,0 +1,61 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "general": {
+    "previewFeatures": true
+  },
+  "ui": {
+    "showStatusInTitle": true,
+    "footer": {
+      "hideModelInfo": false,
+      "hideContextPercentage": false
+    }
+  },
+  "mcpServers": {
+    /*"confluence-mcp": {
+      "command": "/home/assistant/mcp/servers/confluence-mcp/venv/bin/python",
+      "args": [
+        "/home/assistant/mcp/servers/confluence-mcp/server.py"
+      ]
+    },
+    "databricks-mcp": {
+      "command": "/home/assistant/mcp/servers/databricks-mcp/venv/bin/python",
+      "args": [
+        "/home/assistant/mcp/servers/databricks-mcp/server.py"
+      ]
+    },
+    "jira-mcp": {
+      "command": "/home/assistant/mcp/servers/jira-mcp/venv/bin/python",
+      "args": [
+        "/home/assistant/mcp/servers/jira-mcp/server.py"
+      ]
+    },
+    "gmail-mcp": {
+      "command": "/home/assistant/mcp/servers/gmail-mcp/venv/bin/python",
+      "args": [
+        "/home/assistant/mcp/servers/gmail-mcp/server.py"
+      ]
+    },
+    "google-calendar": {
+      "command": "/home/assistant/mcp/servers/google-calendar/venv/bin/python",
+      "args": [
+        "/home/assistant/mcp/servers/google-calendar/server.py"
+      ]
+    },
+    "google-contacts": {
+      "command": "/home/assistant/mcp/servers/google-contacts/venv/bin/python",
+      "args": [
+        "/home/assistant/mcp/servers/google-contacts/server.py"
+      ]
+    },*/
+    "google-tasks": {
+      "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/google-tasks/.venv/bin/python",
+      "args": [
+        "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/google-tasks/server.py"
+      ]
+    }
+  }
+}
