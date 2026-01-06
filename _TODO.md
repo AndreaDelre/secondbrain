@@ -8,7 +8,7 @@ color blue
 ### Today (In Progress) (2026-01-05)
 - [ ] Grosse Tâche : [Pro] - [Alfred] Définir le workflow de travail (Brain Dump, Structurer, Prioriser, Planifier)
 - [ ] [Perso] Faire la vaisselle
-- [ ] [Perso] Préparer le diner
+- [x] [Perso] Préparer le diner
 - [x] [Perso] Lancer la lessive de draps
 - [ ] [Perso] Préparer les factures pour remboursement
 ### 2026-01-06
