@@ -5,19 +5,10 @@ action Shell Commands: Execute: synch-todo
 color blue
 ```
 ## Planning
-### Today (In Progress) (2026-01-05)
-- [ ] Grosse Tâche : [Pro] - [Alfred] Définir le workflow de travail (Brain Dump, Structurer, Prioriser, Planifier)
-- [ ] [Perso] Faire la vaisselle
-- [x] [Perso] Préparer le diner
-- [x] [Perso] Lancer la lessive de draps
-- [ ] [Perso] Préparer les factures pour remboursement
-### 2026-01-06
-- [ ] [Perso] Protéger le sol du Garde manger
-- [ ] [Perso] Faire les deux saignées
+### Today (In Progress) (2026-01-07)
 - [ ] [Perso] Poser les boitiers de prises
 - [ ] [Perso] Tirer les cables des prises
 - [ ] [Perso] Reboucher les saignées
-### 2026-01-07
 ### 2026-01-08
 - [ ] [Perso] Enduire les murs du garde manger
 - [ ] [Perso] Protéger le sol du premier étage
@@ -26,6 +17,7 @@ color blue
 - [ ] [Perso] Poncer les murs
 - [ ] [Perso] Passer l'éponge sur les murs
 - [ ] [Perso] Passer la deuxième couche d'enduit
+
 ## Projects
 ### [Decathlon] Agent Reporting Steering Committee
 **Objective :** Automatiser la génération de slides de Steering Committee à partir de données Jira et Databricks via un agent IA.
@@ -105,5 +97,5 @@ color blue
 ### [Perso] Administratif
 **Objective :** Maintenir à jour et organiser les documents administratifs personnels et familiaux.
 **Success Criteria :** Documents classés, échéances respectées.
-- [ ] Envoyer les fiches médicales pour remboursement mutuelle
+- [ ] Envoyer les fiches médicales pour remboursement mutuelle (Fin janvier 2026)
 - [ ] Envoyer les factures d'hopital pour remboursement mutuelle rugby
