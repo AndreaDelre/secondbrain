@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/pro/_committee/Exploration.md",
+                "file": "_TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploration"
+              "title": "_TODO"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/pro/_committee/Exploration.md",
+                "file": "_TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exploration"
+              "title": "Backlinks for _TODO"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/pro/_committee/Exploration.md",
+                "file": "_TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Exploration"
+              "title": "Outgoing links from _TODO"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/pro/_committee/Exploration.md",
+                "file": "_TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploration"
+              "title": "Outline of _TODO"
             }
           },
           {
@@ -214,9 +214,9 @@
   },
   "active": "7f13e71b3d2a0e94",
   "lastOpenFiles": [
+    "projects/pro/_committee/Exploration.md",
     "GEMINI.md",
     "_TODO.md",
-    "projects/pro/_committee/Exploration.md",
     "projects/pro/_committee/_README.md",
     "projects/pro/_committee",
     "MiniInbox/_TODO.md",

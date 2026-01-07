@@ -6,9 +6,9 @@ color blue
 ```
 ## Planning
 ### Today (In Progress) (2026-01-07)
-- [ ] [Perso] Poser les boitiers de prises
-- [ ] [Perso] Tirer les cables des prises
-- [ ] [Perso] Reboucher les saignées
+- [x] [Perso] Poser les boitiers de prises
+- [x] [Perso] Tirer les cables des prises
+- [x] [Perso] Reboucher les saignées
 ### 2026-01-08
 - [ ] [Perso] Enduire les murs du garde manger
 - [ ] [Perso] Protéger le sol du premier étage
