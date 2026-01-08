@@ -4,39 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "86be28ee2ef8ab5d",
-        "type": "tabs",
+        "id": "e0735721512f08fa",
+        "type": "split",
         "children": [
           {
-            "id": "fc7b149048c49ca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GEMINI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GEMINI"
-            }
+            "id": "86be28ee2ef8ab5d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc7b149048c49ca7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "_TODO"
+                }
+              }
+            ]
           },
           {
-            "id": "7f13e71b3d2a0e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_TODO"
-            }
+            "id": "048b49c2236466b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ba9b45d4209e9e9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/andreadelre/Work/secondbrain",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "Classic",
+                        "platforms": {
+                          "darwin": true,
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: Gemini - secondbrain"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -212,11 +250,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7f13e71b3d2a0e94",
+  "active": "fc7b149048c49ca7",
   "lastOpenFiles": [
-    "projects/pro/_committee/Exploration.md",
     "GEMINI.md",
+    "MiniInbox/Diary.md",
+    "MiniInbox/Daily note -.md",
     "_TODO.md",
+    "projects/pro/_committee/Exploration.md",
     "projects/pro/_committee/_README.md",
     "projects/pro/_committee",
     "MiniInbox/_TODO.md",

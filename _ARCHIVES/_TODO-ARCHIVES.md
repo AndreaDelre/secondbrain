@@ -1,3 +1,8 @@
+### 2026-01-07
+- [x] [Perso] Poser les boitiers de prises
+- [x] [Perso] Tirer les cables des prises
+- [x] [Perso] Reboucher les saignées
+
 ### 2026-01-06
 - [x] [Perso] Protéger le sol du Garde manger
 - [x] [Perso] Faire les deux saignées

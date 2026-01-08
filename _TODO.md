@@ -5,14 +5,13 @@ action Shell Commands: Execute: synch-todo
 color blue
 ```
 ## Planning
-### Today (In Progress) (2026-01-07)
-- [x] [Perso] Poser les boitiers de prises
-- [x] [Perso] Tirer les cables des prises
-- [x] [Perso] Reboucher les saignées
-### 2026-01-08
+### Today (In Progress) (2026-01-08)
 - [ ] [Perso] Enduire les murs du garde manger
 - [ ] [Perso] Protéger le sol du premier étage
 - [ ] [Perso] Enduire les murs du 1er étage
+- [ ] [Perso] Vider le robot
+- [ ] [Perso] Lancer le robot
+- [ ] [Perso] Lancer lessive de draps
 ### 2026-01-09
 - [ ] [Perso] Poncer les murs
 - [ ] [Perso] Passer l'éponge sur les murs
