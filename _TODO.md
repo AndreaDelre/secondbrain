@@ -9,10 +9,10 @@ color blue
 - [ ] [Perso] Enduire les murs du garde manger
 - [ ] [Perso] Protéger le sol du premier étage
 - [ ] [Perso] Enduire les murs du 1er étage
-- [ ] [Perso] Vider le robot
-- [ ] [Perso] Lancer le robot
+- [x] [Perso] Vider le robot
+- [x] [Perso] Lancer le robot
 - [ ] [Perso] Lancer lessive de draps
-- [ ] [Binarii] - [Fetchly] Setup le fetcher
+- [x] [Binarii] - [Fetchly] Setup le fetcher
 - [ ] [Binarii] - [Fetchly] Setup l'UI
 - [ ] [Perso] - [CellarCloud] Stratégie de refont v2
 ### 2026-01-10
