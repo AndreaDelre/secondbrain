@@ -6,19 +6,21 @@ color blue
 ```
 ## Planning
 ### Today (In Progress) (2026-01-09)
-- [ ] [Perso] Enduire les murs du garde manger
-- [ ] [Perso] Protéger le sol du premier étage
-- [ ] [Perso] Enduire les murs du 1er étage
+- [x] [Perso] Enduire les murs du garde manger
 - [x] [Perso] Vider le robot
 - [x] [Perso] Lancer le robot
-- [ ] [Perso] Lancer lessive de draps
+- [x] [Perso] Lancer lessive de draps
 - [x] [Binarii] - [Fetchly] Setup le fetcher
-- [ ] [Binarii] - [Fetchly] Setup l'UI
-- [ ] [Perso] - [CellarCloud] Stratégie de refont v2
+- [x] [Binarii] - [Fetchly] Setup l'UI
+
 ### 2026-01-10
-- [ ] [Perso] Poncer les murs
+- [ ] [Perso] Poncer les murs du garde manger
 - [ ] [Perso] Passer l'éponge sur les murs
-- [ ] [Perso] Passer la deuxième couche d'enduit
+- [ ] [Perso] - [CellarCloud] Stratégie de refont v2
+
+### 2026-01-11
+- [ ] [Perso] Protéger le sol du premier étage
+- [ ] [Perso] Enduire les murs du 1er étage
 
 ## Projects
 ### [Decathlon] Agent Reporting Steering Committee
