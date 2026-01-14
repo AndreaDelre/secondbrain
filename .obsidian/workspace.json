@@ -4,77 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e0735721512f08fa",
-        "type": "split",
+        "id": "86be28ee2ef8ab5d",
+        "type": "tabs",
         "children": [
           {
-            "id": "86be28ee2ef8ab5d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc7b149048c49ca7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_TODO.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "_TODO"
+            "id": "fc7b149048c49ca7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "projects/pro/binarii/IaC/Untitled.canvas",
+                "viewState": {
+                  "x": 1039.0092514894966,
+                  "y": 201.60054383209138,
+                  "zoom": -0.9155405027698722
                 }
-              }
-            ]
-          },
-          {
-            "id": "048b49c2236466b9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4ba9b45d4209e9e9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/andreadelre/Work/secondbrain",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "Classic",
-                        "platforms": {
-                          "darwin": true,
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: Gemini - secondbrain"
-                }
-              }
-            ]
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,6 +203,9 @@
   "active": "fc7b149048c49ca7",
   "lastOpenFiles": [
     "_TODO.md",
+    "projects/pro/binarii/IaC/Untitled.canvas",
+    "projects/pro/binarii/IaC",
+    "projects/pro/binarii",
     "GEMINI.md",
     "MiniInbox/Diary.md",
     "MiniInbox/Daily note -.md",
@@ -280,8 +233,6 @@
     "projects/perso/travaux/_TODO.md",
     "projects/pro/pm-assistant",
     "Mini Inbox/Nouvelle Note.md",
-    "projects/perso/travaux",
-    "projects/perso",
     "Mini Inbox/Sans titre.md"
   ]
 }
