@@ -5,20 +5,15 @@ action Shell Commands: Execute: synch-todo
 color blue
 ```
 ## Planning
-### Today (In Progress) (2026-01-09)
-- [x] [Perso] Enduire les murs du garde manger
-- [x] [Perso] Vider le robot
-- [x] [Perso] Lancer le robot
-- [x] [Perso] Lancer lessive de draps
-- [x] [Binarii] - [Fetchly] Setup le fetcher
-- [x] [Binarii] - [Fetchly] Setup l'UI
-
-### 2026-01-10
-- [ ] [Perso] Poncer les murs du garde manger
-- [ ] [Perso] Passer l'éponge sur les murs
-- [ ] [Perso] - [CellarCloud] Stratégie de refont v2
-
 ### 2026-01-11
+- [x] [binarii-fetchly] Finaliser Fetchly
+
+### 2026-01-13
+- [ ] [binarii-iac] Migrer i7
+- [ ] [Perso] - [CellarCloud] Stratégie de refont v2
+- [ ] [Perso] Remettre à jour XP Controller
+
+### 2026-01-14
 - [ ] [Perso] Protéger le sol du premier étage
 - [ ] [Perso] Enduire les murs du 1er étage
 

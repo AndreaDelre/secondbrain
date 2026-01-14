@@ -1,3 +1,15 @@
+### 2026-01-10
+- [x] [Perso] Poncer les murs du garde manger
+- [x] [Perso] Passer l'éponge sur les murs
+
+### 2026-01-09
+- [x] [Perso] Enduire les murs du garde manger
+- [x] [Perso] Vider le robot
+- [x] [Perso] Lancer le robot
+- [x] [Perso] Lancer lessive de draps
+- [x] [Binarii] - [Fetchly] Setup le fetcher
+- [x] [Binarii] - [Fetchly] Setup l'UI
+
 ### 2026-01-07
 - [x] [Perso] Poser les boitiers de prises
 - [x] [Perso] Tirer les cables des prises
