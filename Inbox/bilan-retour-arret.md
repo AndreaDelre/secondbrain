@@ -1,0 +1,12 @@
+- [ ] Migration unitiy ?
+- [ ] Data contract ?
+- [ ] Récap Digital Analytics Customers
+- [ ] Récap Digital Analytics
+- [ ] Récap Global Analytics
+- [ ] Récap Traffic In Store
+- [ ] Récap collection
+- [ ] Dashboard pilotage
+- [ ] Openlineage ?
+- [ ] Catalog collector
+- [ ] Synchro Pierre MONNET
+- [ ] [Lire doc QSR](https://docs.google.com/presentation/d/1TVIX4i3BLleFIBDMjQUFBvm9xNUHmVXHRbj_u8CuXIw/edit?slide=id.g37d959f9944_0_0&pli=1#slide=id.g37d959f9944_0_0)

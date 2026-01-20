@@ -5,19 +5,25 @@ action Shell Commands: Execute: synch-todo
 color blue
 ```
 ## Planning
-### 2026-01-11
-- [x] [binarii-fetchly] Finaliser Fetchly
+### Today (In Progress) [2026-01-20]
+- [ ] Tâche Prioritaire (Frog) : [RH] Entretien Fin d'année - Julien
+- [ ] Tâche Prioritaire (Frog) : [RH] Entretien Fin d'année - Chloé
 
-### 2026-01-13
-- [ ] [binarii-iac] Migrer i7
+### Next [2026-01-21]
+- [ ] Tâche Secondaire : [Decathlon] Agent Reporting - Cartographier les données (Jira/Databricks)
+- [ ] Quick Win : [Decathlon] Daily - Définition des critères de check des périmètres
+- [ ] Quick Win : [Decathlon] Daily - Mise à jour sur les périmètres
+- [ ] Quick Win : [Perso] Administratif - Envoyer fiches médicales mutuelle
+
+### 2026-01-22
 - [ ] [Perso] - [CellarCloud] Stratégie de refont v2
-- [ ] [Perso] Remettre à jour XP Controller
-
-### 2026-01-14
-- [ ] [Perso] Protéger le sol du premier étage
-- [ ] [Perso] Enduire les murs du 1er étage
 
 ## Projects
+### [Decathlon] Daily Tasks
+- [ ] Trier les emails Decathlon
+- [ ] Trier les tâches
+- [ ] Définition des critères de check des périmètres
+- [ ] Mise à jour sur les périmètres
 ### [Decathlon] Agent Reporting Steering Committee
 **Objective :** Automatiser la génération de slides de Steering Committee à partir de données Jira et Databricks via un agent IA.
 **Success Criteria :** Obtention d'un deck de slides de qualité attendue sur simple demande à l'agent.
@@ -60,7 +66,7 @@ color blue
 - [ ] [Analyst] Cartographier les données nécessaires (Champs Jira, Tables Databricks) pour les slides
 - [ ] [Analyst] Faire un POC technique simple de génération de slide (Python -> PPTX)
 
-### [Binarii] MiniNote
+### [Binarii] MiniDiairy
 **Objective :** Créer un pont de synchronisation bidirectionnel entre les fichiers Markdown locaux (Obsidian/TODO) et Google Tasks, avec une interface d'entrée rapide sur macOS.
 **Success Criteria :** Saisie rapide via Mac (<3s), synchronisation bidirectionnelle temps réel Markdown <-> Google Tasks, compatibilité totale avec les agents IA.
 - [X] Réaliser le cadrage initial (Besoins, MVP, Stack technique)
@@ -92,9 +98,14 @@ color blue
 **Objective :** Gestion fluide et organisée des tâches quotidiennes et de la logistique du foyer.
 **Success Criteria :** Maison entretenue, logistique maîtrisée sans surcharge mentale.
 - [ ] Arroser les plantes
+- [ ] Lessives Couleurs
+- [ ] Lessives Blanches
 
 ### [Perso] Administratif
 **Objective :** Maintenir à jour et organiser les documents administratifs personnels et familiaux.
 **Success Criteria :** Documents classés, échéances respectées.
 - [ ] Envoyer les fiches médicales pour remboursement mutuelle (Fin janvier 2026)
 - [ ] Envoyer les factures d'hopital pour remboursement mutuelle rugby
+- [ ] Rendez-vous dentiste
+- [ ] Rendez-vous passeport
+- [ ] Rendez-vous ophtalmo

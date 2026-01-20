@@ -33,13 +33,13 @@
         "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/jira-mcp/server.py"
       ]
     },
-    /*"gmail-mcp": {
-      "command": "/home/assistant/mcp/servers/gmail-mcp/venv/bin/python",
+    "gmail-pro-mcp": {
+      "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gmail-pro-mcp/.venv/bin/python",
       "args": [
-        "/home/assistant/mcp/servers/gmail-mcp/server.py"
+        "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gmail-pro-mcp/server.py"
       ]
     },
-    "google-calendar": {
+    /*"google-calendar": {
       "command": "/home/assistant/mcp/servers/google-calendar/venv/bin/python",
       "args": [
         "/home/assistant/mcp/servers/google-calendar/server.py"

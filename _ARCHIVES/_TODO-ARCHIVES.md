@@ -1,8 +1,13 @@
-### 2026-01-10
+### 2026-01-19
+- [x] Tâche Prioritaire (Frog) : [Decathlon] Daily - Trier les emails
+- [x] Tâche Secondaire : [Decathlon] Daily - Trier les chats
+- [x] [binarii-iac] Migrer i7
+
+## 2026-01-10
 - [x] [Perso] Poncer les murs du garde manger
 - [x] [Perso] Passer l'éponge sur les murs
 
-### 2026-01-09
+## 2026-01-09
 - [x] [Perso] Enduire les murs du garde manger
 - [x] [Perso] Vider le robot
 - [x] [Perso] Lancer le robot
@@ -10,24 +15,24 @@
 - [x] [Binarii] - [Fetchly] Setup le fetcher
 - [x] [Binarii] - [Fetchly] Setup l'UI
 
-### 2026-01-07
+## 2026-01-07
 - [x] [Perso] Poser les boitiers de prises
 - [x] [Perso] Tirer les cables des prises
 - [x] [Perso] Reboucher les saignées
 
-### 2026-01-06
+## 2026-01-06
 - [x] [Perso] Protéger le sol du Garde manger
 - [x] [Perso] Faire les deux saignées
 - [x] [Bianrii] Mise à jour du docuement d'architecture IaC
 
-### 2026-01-05
+## 2026-01-05
 - [x] Grosse Tâche : [Pro] - [Alfred] Définir le workflow de travail (Brain Dump, Structurer, Prioriser, Planifier)
 - [x] [Perso] Faire la vaisselle
 - [x] [Perso] Préparer le diner
 - [x] [Perso] Lancer la lessive de draps
 - [x] [Perso] Préparer les factures pour remboursement
 
-## Done 2026-01-03
+## 2026-01-03
 - [X] [Binarii] Cadrer le projet MiniNote (Objectifs, MVP, Stack)
 - [x] [Binarii IaC] Reinstall Quieter : Boot PXE et installation Zero Touch
 - [x] [Perso] Travaux/Bricolage : Définir objectif du week-end

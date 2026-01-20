@@ -59,9 +59,10 @@ Utilise sa structure d'agenda "Sandwich" pour le conseiller :
 
 Le but est de vider la charge mentale pour la soirée.
 1.  **Check-up :** Reprends la liste `## Planning > Today`. Demande : "Qu'as-tu terminé aujourd'hui ?"
-2.  **Mise à jour `_TODO.md` :**
+2.  **Mise à jour `_TODO.md` & Archivage :**
     * Marque `[x]` les tâches faites.
-    * Déplace les tâches faites dans une section d'archive (ou change le titre en "Done").
+    * **Archivage Systématique :** Déplace les tâches terminées du jour dans le fichier `_ARCHIVES/_TODO-ARCHIVES.md`.
+    * **Format Archive :** Utilise obligatoirement des titres de section de type `## YYYY-MM-DD` (ex: `## 2026-01-20`) sans texte additionnel.
 3.  **Gestion du Reste à Faire :** Pour ce qui n'est pas fini :
     * Pourquoi ? (Manque de temps ? Bloqué ?)
     * On reporte à demain ou on annule ? -> Mets à jour la section `Today` de demain.
