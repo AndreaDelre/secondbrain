@@ -5,18 +5,59 @@ action Shell Commands: Execute: synch-todo
 color blue
 ```
 ## Planning
-### Today (In Progress) [2026-01-20]
-- [ ] Tâche Prioritaire (Frog) : [RH] Entretien Fin d'année - Julien
-- [ ] Tâche Prioritaire (Frog) : [RH] Entretien Fin d'année - Chloé
+### 2026-02-10
+- [x] **Grosse Tâche (Frog) :** [Decathlon] Ecrire CR visite en Belgique
+- [x] **Grosse Tâche (Frog) :** [Decathlon] [RH] Finaliser projet pro Simon (SIBA) et vision staff/DBT
+- [x] [Decathlon] Note de service sur le tracking
 
-### Next [2026-01-21]
+### 2026-02-16
+- [x] Tâche Secondaire : [Decathlon] Suivre exploration Billel sur Abandonned Browsing
+- [ ] Définir les KPIs de Digital Analytics
+- [ ] **Grosse Tâche (Frog) :** [Decathlon] [RH] Ecrire 360 Marine Dussaussois
+- [ ] Quick Win : [Decathlon] Analyser les demandes d'usages sur Amplitude (Top utilisateurs)
+- [ ] [Decathlon] Étudier représentativité du non-consent et KPIs
+- [x] Trier le reste du dossier Inbox
+
+### 2026-02-17
+
+### 2026-02-18
+- [x] [Decathlon] Prendre les billets de train
+- [x] [Decathlon] Mettre à jour l'odj avec Leandro
+- [x] [Decathlon] Définir la notion d'anonymisation des données Piano et Amplitude non-consent
+- [x] Trier le reste du dossier Inbox
+
+### 2026-02-19
+- [x] [Decathlon] Définir les KPIs de Digital Analytics
+- [x] Tâche Secondaire : [Decathlon] Synchro Oussama (Data Model) & Leandro (Insights/Tracking)
+- [x] Tâche Secondaire : [Decathlon] Discuter avec Leandro de l'organisation de l'équipe tracking
+
+### 2026-02-23
+- [x] **Grosse Tâche (Frog) :** [Decathlon] [RH] Ecrire 360 Marine Dussaussois
+- [ ] [Decathlon] Étudier représentativité du non-consent et KPIs
+- [ ] Quick Win : [Decathlon] Analyser les demandes d'usages sur Amplitude (Top utilisateurs)
+- [ ] Tâche Secondaire : [Decathlon] Relire plan 2026 de Simon Bazin
+
+### 2026-02-02 (Past)
+- [ ] Préparation Roadmap
+- [ ] Préparation cadrage abandonned browsing
+- [ ] Préparation cadrage streaming
+- [x] Trier le dossier Inbox (In Progress)
+- [ ] [Decathlon] Présentation Thibault PEETERS
+- [ ] [Decathlon] Vision d'équipe 2026
+- [ ] [Decathlon] Analyse France pour CA par arbo
+- [ ] [Decathlon] Revue des pratiques IA PM
+- [ ] [Decathlon] Brief Agent PM
+- [ ] [Decathlon] Vision Collection 2026
+
+### 2026-02-03
 - [ ] Tâche Secondaire : [Decathlon] Agent Reporting - Cartographier les données (Jira/Databricks)
 - [ ] Quick Win : [Decathlon] Daily - Définition des critères de check des périmètres
-- [ ] Quick Win : [Decathlon] Daily - Mise à jour sur les périmètres
-- [ ] Quick Win : [Perso] Administratif - Envoyer fiches médicales mutuelle
+- [ ] Quick Win : [Decathlon] Daily - Mise à jour sur TiS
+- [ ] Quick Win : [Decathlon] Daily - Mise à jour sur DA
 
-### 2026-01-22
+### 2026-01-30
 - [ ] [Perso] - [CellarCloud] Stratégie de refont v2
+- [ ] Quick Win : [Perso] Administratif - Envoyer fiches médicales mutuelle
 
 ## Projects
 ### [Decathlon] Daily Tasks

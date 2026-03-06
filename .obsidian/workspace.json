@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "49a1199c6c2f14ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "fc7b149048c49ca7",
+  "active": "49a1199c6c2f14ec",
   "lastOpenFiles": [
     "_TODO.md",
     "projects/pro/binarii/IaC/Untitled.canvas",

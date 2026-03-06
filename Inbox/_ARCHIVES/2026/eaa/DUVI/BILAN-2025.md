@@ -35,8 +35,51 @@
 - Proactivité dans la mise en place de rituels d'équipe pour améliorer le collectif.
 
 ## Points d'amélioration
-- Communication : Il est important que tu partages plus régulièrement ton travail avec l'équipe, même si tu juges que ce n'est pas pertinent. Cela permet au collectif de progresser et de comprendre les enjeux techniques.
+- Communication : Il est important que tu partages plus régulièrement ton travail avec l'équipe, même si tu juges que ce n'est pas pertinent. Cela permet au collectif de progresser et de comprendre les enjeux techniques. Désirabilité, donner envie aux gens, pour dépasser l'aspect developper.
 - Cadrage : Il est important que tu prennes le temps de bien cadrer les sujets avant de te lancer dans la réalisation. Cela permettra d'éviter les dérives de délai et les incompréhensions.
 
 ## Conclusion
 Tous les feedbacks des collaborateurs vont dans le même sens : tu es une personne engagée qui apprécie aider les autres, ce qui te permet de rester engager dans les projets et l'entreprise. Tu as pu démontrer ton niveau technique tout au long de l'année au travers des projets plus ou moins complexe pour ton niveau et que tu as su accomplir proprement. Cependant, garde en tête que la qualité de ton travail ne se mesure pas uniquement à ta capacité à livrer des sujets techniques, mais aussi à ta capacité à faire monter en compétence le collectif et à partager ton savoir-faire. Tu as montré une forte capacité d'accompagnement individuel grâce au mentoring de Matthieu, il est temps pour toi de rayonner plus dans l'équipe par une vision plus long terme de la technique et du collectif.
+
+## Bonus
+
+Premier semestre compliqué, la notion de run a pas été facile, il fallait répéter car une inertie. (Difficulté à prendre en compte la lenteur des gens / Notion de rationalité / Sens Vs humain et change). Action rapide instantanée vs vision long terme.
+
+Impression de perdre moins de temps, moins l'aspect cerveau cramé.
+
+- La co-création t'a permis de vivre plainement Decathlon
+- Onboarder quelqu'un c'est une posture nouvelle pour moi et c'était agréable. Le fait de lui donner plus de cadre, ça lui a permis de le faire avancer
+- Monter en compétences sur la partie gestion de projet, création de ticket, de documentation, etc.
+- Pas de prise de place dans l'équipe
+- Centré sur ton produit et pas sur l'équipe. Alors que sur le run tu as fait des choses mais plus pour améliorer toi ta douleur.
+
+- O3 bi mensuel + EI quarter
+- Revu des objectifs plus précis
+- Revaloriser les autres actions mises en place
+
+- Qu'est ce que tu veux faire dans les années qui arrivent ?
+
+- Accepter et prendre du temps pour s'onboarder
+- Si je mets plus d'energie ça allait me dégouter
+- En voulant tout faire pour que ça aille mieux tu peux tout épuisé si c'est pas le moment
+- Du temps pour faire un constat
+- Je suis pas légitime donc je vais pas proposer des choses, ce qui amène à des frustrations et un aspect négatif de ton profil
+- Il fallait plus que proposer, il fallait emmener
+
+- Il y a eu quand même une forte  adaptation à s'onboarder avec un nouveau produit
+
+- Le 4 s'entend pour la suite et le futur dans l'entreprise
+
+- Capacité de prendre du recul
+
+## Le futur
+
+Changer d'environement
+Je me verrai bien faire le même métier mais dans une marque
+
+Mélanger la data, l'IA et le produit
+
+- Qu'est ce que tu veux vivre cette année ?
+- Qu'est ce que tu veux représenter pour l'équipe ?
+- Qu'est ce que tu veux représenter pour la collection ?
+- Qu'est ce que tu veux représenter pour Decathlon ?

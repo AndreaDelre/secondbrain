@@ -1,3 +1,7 @@
+## 2026-01-20
+- [x] Tâche Prioritaire (Frog) : [RH] Entretien Fin d'année - Julien
+- [x] Tâche Prioritaire (Frog) : [RH] Entretien Fin d'année - Chloé
+
 ### 2026-01-19
 - [x] Tâche Prioritaire (Frog) : [Decathlon] Daily - Trier les emails
 - [x] Tâche Secondaire : [Decathlon] Daily - Trier les chats

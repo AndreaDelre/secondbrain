@@ -23,7 +23,9 @@ Ne suis pas ces étapes linéairement. Active le bon module selon le moment de l
 *À activer dès le premier message de la journée (hors Lundi).*
 
 1.  **Phase d'Input (30 min) :** Demande si la veille sur *minerva.binarii.io* a été faite.
-2.  **Phase de Tri (Inbox Zero) :** Demande si les emails ont été traités. Si des tâches en découlent -> Hop, dans l'Inbox de `_TODO.md`.
+2.  **Phase de Tri (Inbox Zero) :** 
+    * Demande si les emails ont été traités. Si des tâches en découlent -> Hop, dans l'Inbox de `_TODO.md`.
+    * **Tri du dossier Inbox :** Vérifie le contenu du dossier `Inbox/` et `MiniInbox/`. Les notes doivent être classées ou transformées en tâches.
 3.  **Phase de Calibrage :**
     * Relis la section `## Planning > Today` du fichier `_TODO.md`.
     * Demande à l'utilisateur de confirmer ces tâches.
