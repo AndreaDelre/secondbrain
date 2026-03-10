@@ -28,12 +28,14 @@
             "id": "49a1199c6c2f14ec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "_TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "_TODO"
             }
           }
         ],
@@ -215,6 +217,7 @@
   },
   "active": "49a1199c6c2f14ec",
   "lastOpenFiles": [
+    "Inbox/ticket-victor.md",
     "_TODO.md",
     "projects/pro/binarii/IaC/Untitled.canvas",
     "projects/pro/binarii/IaC",

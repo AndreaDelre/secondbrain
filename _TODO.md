@@ -33,6 +33,12 @@ color blue
 
 ### 2026-02-23
 - [x] **Grosse Tâche (Frog) :** [Decathlon] [RH] Ecrire 360 Marine Dussaussois
+
+### 2026-03-09
+- [ ] OpenCode Bootstrap
+- [ ] Cleaning mail
+- [ ] [Decathlon] Briefing Simon Agents Omni Marketing
+- [ ] [Decathlon] Mission Chloé
 - [ ] [Decathlon] Étudier représentativité du non-consent et KPIs
 - [ ] Quick Win : [Decathlon] Analyser les demandes d'usages sur Amplitude (Top utilisateurs)
 - [ ] Tâche Secondaire : [Decathlon] Relire plan 2026 de Simon Bazin

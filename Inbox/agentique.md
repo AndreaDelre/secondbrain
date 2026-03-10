@@ -1,0 +1,8 @@
+- C'est quoi une architecture agentique ? 
+    - Vertex + Gchat -> Chat Bot, biloing + pertiance réponse + première archi
+    - La liste des use cases à résoudre :
+        - Liste des US auquel on voudrait répondre
+    - 3 sujets :
+        - Pertinance Copilot
+        - Activation a distance de Copilot
+        - Architecture agentique
