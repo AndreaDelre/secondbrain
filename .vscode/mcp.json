@@ -1,0 +1,40 @@
+{
+    "servers": {
+        "confluence-mcp": {
+        "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/confluence-mcp/.venv/bin/python",
+        "args": [
+            "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/confluence-mcp/server.py"
+        ]
+        },
+        "databricks-mcp": {
+        "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/databricks-mcp/.venv/bin/python",
+        "args": [
+            "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/databricks-mcp/server.py"
+        ]
+        },
+        "jira-mcp": {
+        "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/jira-mcp/.venv/bin/python",
+        "args": [
+            "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/jira-mcp/server.py"
+        ]
+        },
+        "gmail-pro-mcp": {
+        "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gmail-pro-mcp/.venv/bin/python",
+        "args": [
+            "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gmail-pro-mcp/server.py"
+        ]
+        },
+        "google-tasks": {
+        "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/google-tasks/.venv/bin/python",
+        "args": [
+            "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/google-tasks/server.py"
+        ]
+        },
+        "gsheet-mcp": {
+        "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gsheet-mcp/.venv/bin/python",
+        "args": [
+            "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gsheet-mcp/server.py"
+        ]
+        }
+  }
+}

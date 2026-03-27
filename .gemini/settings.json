@@ -39,18 +39,6 @@
         "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/gmail-pro-mcp/server.py"
       ]
     },
-    /*"google-calendar": {
-      "command": "/home/assistant/mcp/servers/google-calendar/venv/bin/python",
-      "args": [
-        "/home/assistant/mcp/servers/google-calendar/server.py"
-      ]
-    },
-    "google-contacts": {
-      "command": "/home/assistant/mcp/servers/google-contacts/venv/bin/python",
-      "args": [
-        "/home/assistant/mcp/servers/google-contacts/server.py"
-      ]
-    },*/
     "google-tasks": {
       "command": "/Users/andreadelre/Work/_ai-tools/mcp/servers/decathlon/google-tasks/.venv/bin/python",
       "args": [

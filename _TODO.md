@@ -34,19 +34,24 @@ color blue
 ### 2026-02-23
 - [x] **Grosse Tâche (Frog) :** [Decathlon] [RH] Ecrire 360 Marine Dussaussois
 
-### 2026-03-09
+### 2026-03-16
+- [ ] Vider mails
+- [ ] Préparation atelier
+- [ ] Finir budget 2025 -> 2026
 - [ ] OpenCode Bootstrap
 - [ ] Cleaning mail
-- [ ] [Decathlon] Briefing Simon Agents Omni Marketing
-- [ ] [Decathlon] Mission Chloé
+- [x] [Decathlon] Briefing Simon Agents Omni Marketing
+- [ ] [Decathlon] Mission Chloé
 - [ ] [Decathlon] Étudier représentativité du non-consent et KPIs
 - [ ] Quick Win : [Decathlon] Analyser les demandes d'usages sur Amplitude (Top utilisateurs)
 - [ ] Tâche Secondaire : [Decathlon] Relire plan 2026 de Simon Bazin
 
 ### 2026-02-02 (Past)
+- [ ] Google Code Assist avec Victor
 - [ ] Préparation Roadmap
 - [ ] Préparation cadrage abandonned browsing
 - [ ] Préparation cadrage streaming
+- [ ] Delete non-consent Piano/Amplitude
 - [x] Trier le dossier Inbox (In Progress)
 - [ ] [Decathlon] Présentation Thibault PEETERS
 - [ ] [Decathlon] Vision d'équipe 2026
